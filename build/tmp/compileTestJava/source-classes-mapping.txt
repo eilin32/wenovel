@@ -1,0 +1,10 @@
+com/portfolio/one/springboot/web/dto/HelloResponseDtoTest.java
+ com.portfolio.one.springboot.web.dto.HelloResponseDtoTest
+com/portfolio/one/springboot/web/IndexControllerTest.java
+ com.portfolio.one.springboot.web.IndexControllerTest
+com/portfolio/one/springboot/web/HelloControllerTest.java
+ com.portfolio.one.springboot.web.HelloControllerTest
+com/portfolio/one/springboot/web/PostsApiControllerTest.java
+ com.portfolio.one.springboot.web.PostsApiControllerTest
+com/portfolio/one/springboot/domain/posts/PostsRepositoryTest.java
+ com.portfolio.one.springboot.domain.posts.PostsRepositoryTest
